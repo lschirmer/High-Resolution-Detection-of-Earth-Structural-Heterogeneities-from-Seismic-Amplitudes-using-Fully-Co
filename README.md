@@ -12,4 +12,5 @@ We use the F3 North sea dataset and it is available [here](https://www.dropbox.c
 5. numpy
 6. matplotlib
 7. segyio
-
+8. jupyter
+ 
